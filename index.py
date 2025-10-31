@@ -1,1 +1,1 @@
-print("vvce college of engineering")
+print("vvce college of Enginnering")
